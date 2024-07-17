@@ -178,10 +178,7 @@ zinit light akarzim/zsh-docker-aliases
 
 ### Docker Compose
 
-> Note from docker-compose v1.29.2:
-> Except for the Linux platform, Docker Compose is now in the Docker CLI.
-
-- `dkc` is short for `docker-compose`
+- `dkc` is short for `docker compose`
 - `dkcb` Build or rebuild services
 - `dkcB` Build or rebuild services and do not use cache when building the image
 - `dkccp` Copy files/folders between a service container and the local filesystem
